@@ -17,4 +17,7 @@ Vanilla Javascript를 이용하여 그림판 만들기
   css와 html을 통해 기본적인 그림판 틀을 제작하였다.
   ![image](https://user-images.githubusercontent.com/47571973/129481710-99edaf37-de88-4ecb-812f-dcacf0a611e6.png)
 
+  (2) 2021-08-16
+  
+
 </div>
