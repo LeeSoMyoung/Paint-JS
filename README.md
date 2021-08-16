@@ -18,6 +18,11 @@ Vanilla Javascript를 이용하여 그림판 만들기
   ![image](https://user-images.githubusercontent.com/47571973/129481710-99edaf37-de88-4ecb-812f-dcacf0a611e6.png)
 
   (2) 2021-08-16
+
+  그림을 그릴 수 있도록 하였다.
+  (하지만, 색 바꾸기나 브러쉬 두께 바꾸기 등은 구현을 못했고 기본 구현만 했다.)
   
+  ![image](https://user-images.githubusercontent.com/47571973/129580705-73a46eb6-3c4e-4aa5-9a6a-ce148db0574d.png)
+
 
 </div>
