@@ -3,6 +3,9 @@
 # Paint-JS
   
 **Vanilla Javascript를 이용하여 그림판 만들기**
+  
+  **❌깃허브 호스팅 페이지 버그 → 업데이트 된 내용이 업데이트 안 되는 중 : 버그 수정 中❌**
+  
 **호스팅 홈페이지 : https://leesomyoung.github.io/Paint-JS/**
 
 # Tech Stack
@@ -27,8 +30,13 @@
 
   (3) 2021-08-17
 
-  깃허브 호스팅 페이지를 사용하여 홈페이지를 활성화시켰다.
+  깃허브 호스팅 페이지를 사용하여 홈페이지를 활성화시켰다. 그리고, 브러쉬 색깔 및 두께를 바꿀 수 있도록 하였다.
+![image](https://user-images.githubusercontent.com/47571973/129659016-c4a34e63-3f49-4eff-b00d-8508ecb92775.png)
 
-  그리고, 브러쉬 색깔 및 두께를 바꿀 수 있도록 하였다.
+  또한, 저장을 누르면, 다운로드 창이 뜨면서 이미지가 저장이 된다.
+  ![image](https://user-images.githubusercontent.com/47571973/129659150-557949c6-6ec9-4580-bb17-ebb9a20321b7.png)
+
+다운로드한 이미지를 보면 그림판에 그린 이미지와 같다는 걸 알 수 있다.
+![image](https://user-images.githubusercontent.com/47571973/129659168-4cbf2799-3221-4087-9caa-391fcd12f9ed.png)
 
 </div>
