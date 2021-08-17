@@ -2,7 +2,8 @@
 
 # Paint-JS
   
-Vanilla Javascript를 이용하여 그림판 만들기
+**Vanilla Javascript를 이용하여 그림판 만들기**
+**호스팅 홈페이지 : https://leesomyoung.github.io/Paint-JS/**
 
 # Tech Stack
   
@@ -24,5 +25,10 @@ Vanilla Javascript를 이용하여 그림판 만들기
   
   ![image](https://user-images.githubusercontent.com/47571973/129580705-73a46eb6-3c4e-4aa5-9a6a-ce148db0574d.png)
 
+  (3) 2021-08-17
+
+  깃허브 호스팅 페이지를 사용하여 홈페이지를 활성화시켰다.
+
+  그리고, 브러쉬 색깔 및 두께를 바꿀 수 있도록 하였다.
 
 </div>

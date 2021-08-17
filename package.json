@@ -1,0 +1,27 @@
+{
+  "name": "paint-js",
+  "version": "1.0.0",
+  "description": "<div align = \"center\">",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeSoMyoung/Paint-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeSoMyoung/Paint-JS/issues"
+  },
+  "homepage": "https://github.com/LeeSoMyoung/Paint-JS/",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.2",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^5.50.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
